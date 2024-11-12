@@ -1,1 +1,4 @@
 # Bitcoin-fork-probability-tradition-model
+Predicting the fork probability in advance is beneficial for taking early action to avoid malicious attacks. We compose a colored Petri net model of Bitcoin. Our model consists of a given number of nodes, and each node has five subpages representing the node structure: proof of work, broadcast blocks, verify blocks, and the process of adding blocks to blockchain, respectively. Simulation results of fork probability can be easily obtained and analyzed by observing the data in the measuring components of subpages. The results show that our model correctly simulates the fork probability: on recent Bitcoin data, compared with the results of the wide-known SimBlock simulator, a difference of some 4.3% has been obtained. 
+
+Our paper has been received by IEEE SMC and it will be published on website later.
